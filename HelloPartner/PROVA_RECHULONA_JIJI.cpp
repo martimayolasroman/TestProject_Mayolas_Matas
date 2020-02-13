@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-
+//esta fatal, nomes es una prova jijijiii
 	int arr[100][100] = { 1 };
 	for (int i = 0; i < 100; i++) {
 		for (int j = 0; i < 100; j++) {
